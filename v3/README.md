@@ -17,6 +17,8 @@ This repository corresponds to the [Final assignment](https://github.com/ccarrol
   4. ./do_ALL.py: additionally computes all the results.  Runtime: ~8 seconds.
 
   5. The original MATLAB code made available by the authors can be found in Code/MATLAB
+  
+  6. The python code requires inc_process.mat and cl.mat to run
 
 ## Package requirements
 
